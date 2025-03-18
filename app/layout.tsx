@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Tata Technologies - Engineering a better world",
+  title: "Shri Padmavathi Consultants - Engineering a better world",
   description:
     "We use our deep manufacturing knowledge and expertise in turnkey product development to help our customers develop products that are safe, sustainable, and deliver great customer experience.",
 }
