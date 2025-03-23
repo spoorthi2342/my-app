@@ -23,7 +23,7 @@ export default function SolutionBriefSection() {
             </div>
 
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/public/3rd.jpg"
               alt="Electric vehicle technology"
               width={300}
               height={200}
@@ -47,7 +47,7 @@ export default function SolutionBriefSection() {
             </div>
 
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/public/5th.jpg"
               alt="Digital transformation visualization"
               width={300}
               height={200}

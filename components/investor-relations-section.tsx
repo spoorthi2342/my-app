@@ -9,7 +9,7 @@ export default function InvestorRelationsSection() {
         {/* Left side - Business people */}
         <div className="relative h-[400px] md:h-auto">
           <Image
-            src="/placeholder.svg?height=800&width=800"
+            src="/public/5th.jpg"
             alt="Business professionals in discussion"
             fill
             className="object-cover"

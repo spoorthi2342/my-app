@@ -9,7 +9,7 @@ export default function CareersSection() {
         {/* Left side - People working */}
         <div className="relative h-[400px] md:h-auto">
           <Image
-            src="/placeholder.svg?height=800&width=800"
+            src="/public/im1.jpg"
             alt="Team members collaborating"
             fill
             className="object-cover"

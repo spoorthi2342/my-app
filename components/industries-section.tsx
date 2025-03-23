@@ -12,7 +12,7 @@ export default function IndustriesSection() {
             <h3 className="text-2xl font-bold text-gray-900">Automotive</h3>
             <div className="relative h-64 rounded-lg overflow-hidden">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/public/2nd.jpg"
                 alt="Person in car interior"
                 fill
                 className="object-cover"
@@ -29,7 +29,7 @@ export default function IndustriesSection() {
             <h3 className="text-2xl font-bold text-gray-900">Industrial Heavy Machinery</h3>
             <div className="relative h-64 rounded-lg overflow-hidden">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/public/3rd.jpg"
                 alt="Person operating heavy machinery"
                 fill
                 className="object-cover"
@@ -48,7 +48,7 @@ export default function IndustriesSection() {
             <h3 className="text-2xl font-bold text-gray-900">Aerospace</h3>
             <div className="relative h-64 rounded-lg overflow-hidden">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/public/4th.jpg"
                 alt="Person in airplane"
                 fill
                 className="object-cover"

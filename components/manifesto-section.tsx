@@ -36,14 +36,14 @@ export default function ManifestoSection() {
         <div className="grid grid-cols-1 grid-rows-2">
           <div className="relative h-[200px] md:h-auto">
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="/public/7th.jpg"
               alt="Person with AR glasses"
               fill
               className="object-cover"
             />
           </div>
           <div className="relative h-[200px] md:h-auto">
-            <Image src="/placeholder.svg?height=600&width=800" alt="Person in car" fill className="object-cover" />
+            <Image src="/public/im1.jpg" alt="Person in car" fill className="object-cover" />
           </div>
         </div>
       </div>
