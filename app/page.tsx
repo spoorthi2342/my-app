@@ -5,7 +5,7 @@ import InvestorRelationsSection from "@/components/investor-relations-section"
 import ManifestoSection from "@/components/manifesto-section"
 import BusinessChallengesSection from "@/components/business-challenges-section"
 import IndustriesSection from "@/components/industries-section"
-import PartnershipsSection from "@/components/partnerships-section"
+import PartnershipsSection from "@/components/partnership-section"
 import ContactSection from "@/components/contact-section"
 import Navbar from "@/components/navbar"
 
